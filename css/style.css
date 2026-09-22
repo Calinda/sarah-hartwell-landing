@@ -435,7 +435,7 @@ button:focus-visible {
     line-height: 1.6;
 }
 .how-help {
-    padding: var(--space-10) 0 var(--space-11);
+    padding: var(--space-9) 0 var(--space-10);
     background: var(--color-white);
 }
 .how-help__title {
